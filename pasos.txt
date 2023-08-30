@@ -1,0 +1,10 @@
+Requisitos
+Estar en la misma red 
+1 desactivar firewall
+2 ipconfig
+3. ping
+4. cambiar ip del servidor con el de la ip la laptop servidor
+5 Iniciar servidor
+6 Iniciar clientes
+7. Probar todas las opciones
+

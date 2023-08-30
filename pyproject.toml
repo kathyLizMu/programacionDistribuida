@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "pixson"
+version = "0.1.0"
+description = "Sistema Distribuído Simples para Manutenção de Contas Bancárias"
+authors = [
+    "André Walker <andre.walker@ufba.br>",
+    "Eliene Montenegro <eliene.montenegro@ufba.br>",
+    "Pedro Santana <pedrocrs@ufba.br>"
+]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.scripts]
+servidor = "pixson.servidor:main"
+cliente = "pixson.cliente:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
