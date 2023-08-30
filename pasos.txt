@@ -1,10 +1,12 @@
-Requisitos
-Estar en la misma red 
-1 desactivar firewall
-2 ipconfig
-3. ping
-4. cambiar ip del servidor con el de la ip la laptop servidor
-5 Iniciar servidor
-6 Iniciar clientes
-7. Probar todas las opciones
+Indicaciones
+#Estar en la misma red 
+# Agregar la ruta (de pixson-main) al path de Python para que pueda encontrar módulos en "pixson-main"
+# Desactivar firewall
+
+1. ipconfig
+2. ping entre cliente-servidor y viceversa
+3. Cambiar ip del servidor con la ip la laptop servidor
+4. Iniciar servidor
+5. Iniciar clientes
+6. Probar todas las opciones
 
